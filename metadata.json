@@ -1,0 +1,10 @@
+{
+  "name": "MediBlaze",
+  "description": "Smart Medical Chatbot and advanced diagnostic assistant powered by LangGraph, Python, Google Gemini, and Pinecone RAG.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
